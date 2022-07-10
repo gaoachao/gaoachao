@@ -1,6 +1,6 @@
 ### Hi there 👋
-I’m bitter-gourd.<br/>
-My blog site:[https://www.bitter-gourd.com](https://www.bitter-gourd.com)
+- I’m bitter-gourd.
+- My blog site:[https://www.bitter-gourd.com](https://www.bitter-gourd.com)
 <!--
 **gaoachao/gaoachao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
