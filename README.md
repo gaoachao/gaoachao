@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 😄 I’m bitter-gourd.
-- 🌱 I’m currently learning TypeScript,React,Vue,Golang ...
+- 🌱 I’m currently learning TypeScript, React, Vue, Golang ...
+- 📫 How to reach me: t.me/bitter_gourd
 <!--
 **gaoachao/gaoachao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
